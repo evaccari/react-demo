@@ -1,0 +1,21 @@
+{
+  "auth.loading": "Chargement...",
+  "auth.already_logged": "Vous êtes déjà connecté",
+  "auth.login": "Se connecter",
+  "auth.logout": "Se déconnecter",
+  "dashboard.message": "Bienvenue !!!",
+  "language.en": "Anglais",
+  "language.fr": "Français",
+  "language.switch": "{{language}}",
+  "page.dashboard": "Tableau de bord",
+  "page.login": "Bienvenue",
+  "page.settings": "Paramètres",
+  "settings.display": "Afficher",
+  "settings.hide": "Cacher",
+  "settings.info_message": "Liste des paramètres",
+  "settings.language": "Langue d'affichage",
+  "settings.theme": "Mode d'affichage",
+  "theme.dark": "sombre",
+  "theme.light": "clair",
+  "theme.switch": "{{theme}}"
+}

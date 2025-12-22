@@ -1,0 +1,21 @@
+{
+  "auth.loading": "Loading...",
+  "auth.already_logged": "You are already logged in",
+  "auth.login": "Login",
+  "auth.logout": "Logout",
+  "dashboard.message": "Welcome !!!",
+  "language.en": "English",
+  "language.fr": "French",
+  "language.switch": "{{language}}",
+  "page.dashboard": "Dashboard",
+  "page.login": "Welcome",
+  "page.settings": "Settings",
+  "settings.display": "Display",
+  "settings.hide": "Hide",
+  "settings.info_message": "Settings list",
+  "settings.language": "Displayed language",
+  "settings.theme": "Displayed theme",
+  "theme.dark": "dark",
+  "theme.light": "light",
+  "theme.switch": "{{theme}}"
+}
