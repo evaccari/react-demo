@@ -1,6 +1,6 @@
 # React Vite Demo
 
-A modern React application demo showcasing best practices and popular technologies, built with Vite and following the Feature-Sliced Design (FSD) architecture.
+A React application demo showcasing best practices and popular technologies, built with Vite and following the Feature-Sliced Design (FSD) architecture.
 
 ## 🚀 Features
 
