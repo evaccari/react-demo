@@ -158,3 +158,7 @@ The application supports light and dark themes. Theme preference is persisted an
 | `pnpm preview` | Preview production build |
 | `pnpm lint` | Run ESLint |
 | `pnpm steiger` | Validate FSD architecture |
+
+## 🙏 Acknowledgments
+
+This project was developed with the assistance of [Cursor](https://cursor.sh), an AI-powered code editor.
