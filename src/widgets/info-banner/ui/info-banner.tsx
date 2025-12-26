@@ -1,19 +1,19 @@
-import { useTranslation } from "react-i18next"
+import { useTranslation } from 'react-i18next'
 
 interface Props {
-    message: string
-    show: boolean
+  message: string
+  show: boolean
 }
 
 export function InfoBanner({ message, show }: Props) {
-    const { t } = useTranslation()
+  const { t } = useTranslation()
 
-    if (!show || message.trim() === "")
-        return null
+  if (!show || message.trim() === '')
+    return null
 
-    return (
-        <div className="alert alert-info">
-            <span>{t(message)}</span>
-        </div>
-    )
+  return (
+    <div className="alert alert-info">
+      <span>{t(message)}</span>
+    </div>
+  )
 }

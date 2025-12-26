@@ -1,1 +1,1 @@
-export { Collapsible } from "./ui/collapsible"
+export { Collapsible } from './ui/collapsible'

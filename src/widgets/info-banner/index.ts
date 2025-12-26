@@ -1,1 +1,1 @@
-export { InfoBanner } from "./ui/info-banner"
+export { InfoBanner } from './ui/info-banner'

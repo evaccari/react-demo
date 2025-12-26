@@ -1,1 +1,1 @@
-export { SettingsDescription } from "./ui/settings-description"
+export { SettingsDescription } from './ui/settings-description'
