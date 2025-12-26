@@ -5,11 +5,12 @@
   "packageManager": "pnpm@10.25.0",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "lint": "eslint . --fix",
     "lint:inspector": "eslint --inspect-config",
     "preview": "vite preview",
-    "steiger": "steiger ./src"
+    "steiger": "steiger ./src",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@auth0/auth0-react": "2.11.0",
