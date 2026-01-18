@@ -2,6 +2,10 @@
 
 A React application demo showcasing best practices and popular technologies, built with Vite and following the Feature-Sliced Design (FSD) architecture.
 
+<p align='center'>
+<a href="https://react-demo-auth0.netlify.app">Live Demo</a>
+</p>
+
 ## 🚀 Features
 
 - ⚡ **Vite** - Lightning-fast build tool and dev server
