@@ -23,7 +23,7 @@ export function Header() {
       <div className="flex gap-3">
         <LanguageSwitcher />
         <ThemeSwitcher />
-        <LogoutButton />
+        {isAuthenticated && <LogoutButton />}
       </div>
     </div>
   )
